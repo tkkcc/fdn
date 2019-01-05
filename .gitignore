@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints
-/data/
+/data/*
 !/data/*.py
 /models/
 *.ipynb
